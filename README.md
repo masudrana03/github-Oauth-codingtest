@@ -9,65 +9,6 @@
 
 
 
-## About Laravel Template 
-### Note : run those following command make sure github, php, composer & node install. if anything don't install properly this project will not run.
-
-
-
-## One Click Setup Command :
-
-
-#### Without open vs code
-```bash
-curl -sL https://raw.githubusercontent.com/masudrana03/laravel-template/refs/heads/adminlte-4/project_setup.sh | bash
-```
-
-#### With open vs code
-```bash
-curl -sL https://raw.githubusercontent.com/masudrana03/laravel-template/refs/heads/adminlte-4/project_setup.sh | bash && cd laravel-template && code .
-```
-
-## Single Command :
-
-```bash
-git clone git@github.com:masudrana03/laravel-template.git
-```
-
-```bash
-cd laravel-template
-```
-
-```bash
-git checkout adminlte-4
-```
-
-```bash
-cp .env.example .env
-```
-
-```bash
-composer install
-```
-
-```bash
-php artisan key:gen
-```
-
-```bash
-npm install
-```
-
-```bash
-npm run build
-```
-
-
-
-
-
-
-
-
 
 
 
